@@ -1,0 +1,49 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+.title {
+	color: white;
+	padding-top: 5px;
+	padding-left: 10px;
+}
+
+
+.parallax-container {
+	height: 500px;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.presentation {
+	height: 500px;
+}
+
+.distance {
+	padding-top: 50px;
+}
+
+.formation {
+	margin-left: 15px;
+}
+
+.skills {
+	color: white;
+}
+
+.comp {
+	padding-top: 25px;
+}
+
+.progress {
+	width: 300px;
+	height: 10px;
+	margin-top: 37px;
+	margin-left: 20px;
+}
+
+/*hr {
+	border-color:#00695c;
+}*/
